@@ -70,18 +70,20 @@ input:focus {
 /* My code */
 .isRealWord_style {
     display: inline-block;
-    height: 35px;
-    margin: 5px;
-    padding: 10px;
+    border-radius: 5px;
+    height: 30px;
+    margin: 7.5px;
+    padding: 7.5px;
     font-size: 0.5em;
     background-color: blue;
 }
 
 .notRealWord_style {
     display: inline-block;
-    height: 35px;
-    margin: 5px;
-    padding: 10px;
+    border-radius: 5px;
+    height: 30px;
+    margin: 7.5px;
+    padding: 7.5px;
     font-size: 0.5em;
     background-color: red;
 }
