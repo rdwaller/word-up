@@ -66,3 +66,22 @@ input:focus {
     border: 2px solid #4285F4; /* Bootstrap "primary" blue */
     outline-color: #4285f4; /* outline is the fuzzy "glow" */
 }
+
+/* My code */
+.isRealWord_style {
+    display: inline-block;
+    height: 35px;
+    margin: 5px;
+    padding: 10px;
+    font-size: 0.5em;
+    background-color: blue;
+}
+
+.notRealWord_style {
+    display: inline-block;
+    height: 35px;
+    margin: 5px;
+    padding: 10px;
+    font-size: 0.5em;
+    background-color: red;
+}
